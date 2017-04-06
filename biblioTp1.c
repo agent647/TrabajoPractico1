@@ -60,7 +60,7 @@ void validacionDivision(float x, float y){
 
     float divi = divisionFuncion(x, y);
         if(divi == 0){
-            printf("Tiende a infinito.");
+            printf("Tiende a infinito.\n");
         }else{
             printf("La division de %.2f / %.2f, da como resultado : %.2f\n", x, y, divi);
          }

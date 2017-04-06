@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491471857 source:/home/null/Documents/WorkSpace/TP1/biblioTp1.c
+
+1491471946 source:/home/null/Documents/WorkSpace/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioTp1.h"
+
+1491471429 /home/null/Documents/WorkSpace/TP1/biblioTp1.h
+
